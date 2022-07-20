@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Daniel</h1>
 <h3 align="center">A passionate game developer and scripter from Spain</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=papishushi&label=Profile%20views&color=0e75b6&style=flat" alt="papishushi" /> </p>
+<p style="color:green" align="center"> <img src="https://komarev.com/ghpvc/?username=papishushi&label=Profile%20views&color=0e75b6&style=flat" alt="papishushi" /> </p>
 
       Papishushi@SUDO ~ $ echo "I’m currently learning on 42 Madrid Piscine"
       I’m currently learning on 42 Madrid Piscine
