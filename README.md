@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Daniel</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Papishushi@SUDO~$+echo+"Hi+I'm+Daniel+!")](https://git.io/typing-svg)
 <h3 align="center">A passionate game developer and scripter from Spain</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=papishushi&label=Profile%20views&color=0e75b6&style=flat" alt="papishushi" /> </p>
