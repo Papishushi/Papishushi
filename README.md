@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&width=500&font=VT323&color=9F2B68&center=true&lines=Papishushi@SUDO~$+echo+Hi+I'm+Daniel!;Hi+I'm+Daniel!"></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&width=500&font=VT323&color=9F2B68&center=true&lines=Papishushi@SUDO+~+$+echo+Hi+I'm+Daniel!;Hi+I'm+Daniel!"></a></h1>
 <h3 align="center">A passionate game developer and scripter from Spain</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=papishushi&label=Profile%20views&color=0e75b6&style=flat" alt="papishushi" /> </p>
