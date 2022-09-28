@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=papishushi&label=Profile%20views&color=8F00FF&style=for-the-badge" alt="papishushi" /> </p>
 
-      Papishushi@SUDO ~ $ echo "I’m currently learning on 42 Madrid Piscine"
-      I’m currently learning on 42 Madrid Piscine
+      Papishushi@SUDO ~ $ echo "I’m currently learning on 42 Madrid"
+      I’m currently learning on 42 Madrid
       Papishushi@SUDO ~ $ echo "All of my projects are available at Github"
       All of my projects are available at Github
       Papishushi@SUDO ~ $ echo "How to reach me danielmolinero111@cyberdude.com"
