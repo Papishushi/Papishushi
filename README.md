@@ -1,10 +1,8 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&width=500&font=VT323&color=8F00FF&center=true&lines=Papishushi@SUDO+~+$+echo+Hi+I'm+Daniel!;Hi+I'm+Daniel!"></a></h1>
-<h3 align="center">A passionate game developer and scripter from Spain</h3>
+<h3 align="center">I do technology stuff and write letters</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=papishushi&label=Profile%20views&color=8F00FF&style=for-the-badge" alt="papishushi" /> </p>
 
-      Papishushi@SUDO ~ $ echo "I’m currently learning on 42 Madrid"
-      I’m currently learning on 42 Madrid
       Papishushi@SUDO ~ $ echo "All of my projects are available at Github"
       All of my projects are available at Github
       Papishushi@SUDO ~ $ echo "How to reach me danielmolinero111@cyberdude.com"
