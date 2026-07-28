@@ -1,39 +1,39 @@
 <div align="center">
 
-# Daniel Molinero · `Papishushi`
+# Daniel Molinero Lucas · `Papishushi`
 
-### Software engineer building systems, research tooling, and open-source infrastructure
+### Software engineer · former 3D artist · builder of ambitious, inspectable systems
 
-[![Location](https://img.shields.io/badge/Madrid-Spain-8F00FF?style=for-the-badge)](https://github.com/Papishushi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Molinero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmolinero111)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmolinero111@cyberdude.com)
+[![Madrid](https://img.shields.io/badge/Madrid-Spain-8F00FF?style=for-the-badge)](https://github.com/Papishushi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-papishushi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papishushi)
+[![NuGet](https://img.shields.io/badge/NuGet-14_packages_·_20k%2B_downloads-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/papishushi)
+[![Email](https://img.shields.io/badge/Email-say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmolinero111@cyberdude.com)
 
 ```text
-systems engineering  ·  scientific computing  ·  reproducible software
+from prehistoric turtles to cross-process infrastructure and metastable-state research
 ```
 
 </div>
 
 ---
 
-## `> whoami`
+## Hi, I am Daniel
 
-I am a software engineer focused on **.NET architecture**, **distributed systems**, **research tooling**, and **reproducible open-source software**.
+I am a Madrid-based software engineer working mainly with **C# and .NET**, currently in industrial software at **SISTEPLANT**.
 
-I like projects that force software to do more than merely run. A system should expose its assumptions, preserve its evidence, explain its failures, and remain understandable after the clever part has stopped being clever.
+My route here has not been particularly linear. It has passed through **3D art, game development, serious games, C, systems programming, .NET libraries, industrial software, semantic technologies, and reproducible scientific computing**.
 
-My current work sits at the intersection of:
+That slightly chaotic progression is the point.
 
-- distributed services, lifecycle management, and structured metadata;
-- scientific computing, experiment orchestration, and adversarial validation;
-- semantic contracts using RDF, JSON-LD, OWL, SHACL, and SPARQL;
-- CI/CD, packages, containers, SBOMs, attestations, and reproducible releases.
+I enjoy crossing disciplines, taking an idea that initially sounds unreasonable, and forcing it to become explicit enough to test, inspect, reproduce, or reject. The common thread in my work is not a programming language. It is the urge to understand how a system actually works rather than merely getting it to appear functional.
 
-> **Ambitious ideas are welcome. Unfalsifiable ones have to wait outside.**
+> **I have a documented history of taking “what if?” much too seriously.**
+
+Outside engineering, I write and produce video essays about narrative, cinema, history, and the strange places where science and storytelling overlap.
 
 ---
 
-## Featured projects
+## What I am doing now
 
 <table>
 <tr>
@@ -45,12 +45,9 @@ My current work sits at the intersection of:
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21387010-00A6D6?style=flat-square)](https://doi.org/10.5281/zenodo.21387010)
 [![CI](https://img.shields.io/github/actions/workflow/status/Papishushi/metastable-nucleation-suite/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/Papishushi/metastable-nucleation-suite/actions)
 
-An open platform for reproducible research into nucleation, metastability, and physical-state selection.
+An open research platform for investigating nucleation, metastability, and physical-state selection without blurring the line between simulation, inference, and experimental evidence.
 
-- executable experimental protocols and adversarial simulations;
-- semantic provenance through JSON-LD, RDF, OWL, and SHACL;
-- hardware adapters and an optional distributed control plane;
-- archived releases with DOI, checksums, SBOMs, and attestations.
+It combines executable protocols, adversarial statistics, hardware integration, semantic provenance, distributed execution, scientific visualization, DOI-backed releases, SBOMs, and attestations.
 
 **[Explore MNS →](https://github.com/Papishushi/metastable-nucleation-suite)**
 
@@ -63,12 +60,9 @@ An open platform for reproducible research into nucleation, metastability, and p
 [![Language](https://img.shields.io/github/languages/top/Papishushi/Extend0?style=flat-square&color=512BD4)](https://github.com/Papishushi/Extend0)
 [![Last commit](https://img.shields.io/github/last-commit/Papishushi/Extend0?style=flat-square&color=00A6D6)](https://github.com/Papishushi/Extend0/commits/main)
 
-A .NET infrastructure core built around cooperating systems instead of a bag of unrelated utilities.
+A .NET infrastructure core built around cooperating systems rather than a miscellaneous utility drawer.
 
-- cross-process service identity, ownership, and transport resolution;
-- MetaDB for structured schemas, tables, references, and operational state;
-- schema-driven source generators for fixed-layout artifacts;
-- CLI diagnostics for lifecycle, metadata, repositories, and ontology.
+Its current center is cross-process lifecycle and service identity, **MetaDB** structured metadata, transport-aware ownership, schema-driven source generation, ontology, and CLI diagnostics.
 
 **[Explore Extend0 →](https://github.com/Papishushi/Extend0)**
 
@@ -76,15 +70,37 @@ A .NET infrastructure core built around cooperating systems instead of a bag of 
 </tr>
 </table>
 
-<div align="center">
-
-More from the workshop: [**tilegenx**](https://github.com/Papishushi/tilegenx) · [**ScapeCore**](https://github.com/Papishushi/ScapeCore) · [**fract-ol**](https://github.com/Papishushi/fract-ol) · [**42 Madrid projects**](https://github.com/Papishushi?tab=repositories)
-
-</div>
+I am also contributing a focused JSON-LD parser fix upstream to [**RDFLib**](https://github.com/RDFLib/rdflib/pull/3495), preserving compatibility with context-aware stores while removing an internal deprecated `ConjunctiveGraph` path.
 
 ---
 
-## Stack
+## Evidence, not buzzwords
+
+| Signal | What exists |
+|---|---|
+| **Open-source packages** | [14 NuGet packages with more than 20,000 aggregate downloads](https://www.nuget.org/profiles/papishushi) |
+| **Scientific software** | MNS releases are archived with a persistent [Zenodo concept DOI](https://doi.org/10.5281/zenodo.21387010) |
+| **External contribution** | Active upstream work in [RDFLib/rdflib#3495](https://github.com/RDFLib/rdflib/pull/3495) |
+| **Creative technology** | 3rd prize at Hack For Good Madrid for **FADE**, a serious adventure game about ageing, abandonment, and neurodegenerative disease |
+| **Published creative work** | Downloadable 3D models and game-ready assets released publicly as **Papishushi** |
+
+---
+
+## The earlier chapters
+
+Before I was designing metadata systems and scientific workflows, I was making creatures, game assets, engines, and tools.
+
+- **3D art:** [Chibi character base](https://sketchfab.com/3d-models/free-chibi-dummy-high-poly-low-poly-uvw-8c35e45f67e148129d88045dbfd92df7), [Archelon turtle](https://sketchfab.com/3d-models/archelon-turtle-cb127d3d0a1540718d12c5a9ecc88d09), and a frankly oversized [Dragon Slayer](https://sketchfab.com/3d-models/dragon-slayer-from-berserk-bdc9d1fa54e84c5c9cd067049175f188).
+- **Serious games:** **FADE** received third prize in the serious-games and gamified-applications category at Hack For Good Madrid in 2019.
+- **Game and engine tooling:** [ScapeCore](https://github.com/Papishushi/ScapeCore), its published .NET packages, and [tilegenx](https://github.com/Papishushi/tilegenx) for game-development and pixel-art workflows.
+- **Low-level learning:** [fract-ol](https://github.com/Papishushi/fract-ol), [libft](https://github.com/Papishushi/libft), [get_next_line](https://github.com/Papishushi/get_next_line), and other work from the 42 Madrid chapter.
+- **Small tools that solve real annoyances:** [fpprocess](https://github.com/Papishushi/fpprocess), a Windows terminal utility for reconstructing parent-process chains.
+
+I did not abandon the creative side to become an engineer. I brought it with me. It is probably responsible for both the good ideas and the suspiciously ambitious ones.
+
+---
+
+## Technical territory
 
 <div align="center">
 
@@ -93,31 +109,32 @@ More from the workshop: [**tilegenx**](https://github.com/Papishushi/tilegenx) �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-| Area | Technologies and practices |
+| Area | Tools and concerns |
 |---|---|
-| **Application and systems** | C#, .NET, Python, Rust, C, C++, asynchronous and cross-process architecture |
-| **Data and semantics** | JSON Schema, JSON-LD, RDF, OWL, SHACL, SPARQL, structured provenance |
-| **Delivery** | GitHub Actions, NuGet, PyPI, OCI images, Docker, reproducible releases |
-| **Quality** | automated tests, static analysis, contract validation, adversarial scenarios, documentation-as-code |
+| **Systems and applications** | C#, .NET, Python, Rust, C, asynchronous systems, IPC, lifecycle, memory-mapped storage |
+| **Scientific computing** | experiment orchestration, Monte Carlo methods, adversarial validation, falsification criteria |
+| **Semantics and data** | JSON Schema, JSON-LD, RDF, OWL, SHACL, SPARQL, provenance |
+| **Delivery and trust** | GitHub Actions, NuGet, PyPI, OCI, Docker, reproducible releases, SBOMs, attestations |
+| **Creative production** | 3D modelling, texturing, game development, video editing, narrative and technical communication |
 
 ---
 
-## Engineering rules
+## How I like software to behave
 
 ```csharp
 public static class Engineering
 {
     public const string Rule1 = "Make the contract explicit.";
     public const string Rule2 = "Make failure observable.";
-    public const string Rule3 = "Make the result reproducible.";
-    public const string Rule4 = "Do not confuse a green build with scientific evidence.";
+    public const string Rule3 = "Preserve the evidence.";
+    public const string Rule4 = "Make the result reproducible.";
+    public const string Rule5 = "Never confuse a green build with proof.";
 }
 ```
 
@@ -125,9 +142,10 @@ public static class Engineering
 
 <div align="center">
 
-### Build something difficult enough to be interesting.
+### Build something difficult enough to be interesting — then document it well enough to survive you.
 
-[![Repositories](https://img.shields.io/badge/Explore-my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Papishushi?tab=repositories)
-[![Contact](https://img.shields.io/badge/Start-a_conversation-8F00FF?style=for-the-badge)](mailto:danielmolinero111@cyberdude.com)
+[![GitHub](https://img.shields.io/badge/Explore-my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Papishushi?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papishushi)
+[![Sketchfab](https://img.shields.io/badge/Old_3D_work-Sketchfab-1CAAD9?style=for-the-badge)](https://sketchfab.com/papishushi)
 
 </div>
